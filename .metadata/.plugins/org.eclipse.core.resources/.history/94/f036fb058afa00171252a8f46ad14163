@@ -1,0 +1,13 @@
+package exam;
+
+public class Manager extends Employee {
+	public Manager() {
+		super();
+	}
+
+	@Override
+	public void print() {
+		int m1 = money + 5000;
+		System.out.println(name + m1);
+	}
+}
