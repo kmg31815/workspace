@@ -1,0 +1,12 @@
+package exam;
+
+import java.util.ArrayList;
+
+public class VendingMachine {
+
+	public static void main(String[] args) {
+		ArrayList<Drink> Drinks = new ArrayList<>();
+
+	}
+
+}

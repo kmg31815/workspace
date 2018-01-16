@@ -1,0 +1,19 @@
+package exam;
+
+import java.util.ArrayList;
+
+public class VendingMachine {
+
+	public static void main(String[] args) {
+		ArrayList<Drink> Drinks = new ArrayList<>();
+		Drinks.add(new Drink("a", 10));
+		Drinks.add(new Drink("b", 15));
+		Drinks.add(new Drink("c", 10));
+		Drinks.add(new Drink("d", 18));
+		Drinks.add(new Drink("e", 10));
+		Drinks.add(new Drink("f", 20));
+		Drinks.add(new Drink("g", 15));
+		Drinks.add(new Drink("h", 18));
+	}
+
+}

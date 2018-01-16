@@ -38,11 +38,6 @@ public class VendingMachine {
 				System.out.println("販賣機餘額:" + money);
 				break;
 			}
-			int d = 0;
-			switch (d) {
-			case 1:
-
-			}
 		}
 	}
 
